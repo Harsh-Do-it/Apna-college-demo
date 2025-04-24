@@ -1,5 +1,5 @@
 # Apna-college-demo
 This is my first git repository
-brtag
+<br>
 Auther - Harshit Rastogi
 
